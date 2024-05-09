@@ -8,4 +8,4 @@ we have also attached the YouTube video link below for a better understanding of
 https://youtu.be/b8h9ViGNar4
 
 ## Contributors
-_This project was made by [@PoornachandraGiridhar](https://github.com/PoornachandraGiridhar) ._
+_This project was made by [@PoornachandraGiridhar](https://github.com/PoornachandraGiridhar) and [@Pranav2806003](https://github.com/Pranav2806003)._
